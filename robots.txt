@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://peepuzaobe.magicbridgedocs.photonrobot.com/sitemap.xml
